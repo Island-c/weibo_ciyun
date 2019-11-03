@@ -1,0 +1,13 @@
+# Empty CSS file for your own CSS
+html,body{
+	height:100%;
+}
+.container-fluid{
+	padding:0;
+}
+.col-md-12{
+	padding:0;
+}
+.carousel-item .active img{
+	height:219.59px;
+}
